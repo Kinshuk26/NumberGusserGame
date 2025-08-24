@@ -1,2 +1,2 @@
 # NumberGusserGame
-Its a basic game where you guess a number chosen by a computer
+It's a basic game where you guess a number chosen by a computer!
